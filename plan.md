@@ -7,6 +7,7 @@
 - Python Cookbook
 - Python Machine Learning
 - lijin's Python Notes
+- Hands-On Machine Learning with Scikit-Learn and TensorFlow
 
 
 ## learning python, 5th
@@ -20,4 +21,3 @@
 ## python cookbook
 
 ## python machine learning
-
