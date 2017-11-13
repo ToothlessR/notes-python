@@ -23,8 +23,8 @@
 
 ## Pandas for Data Analysis
 - [ ] 03.Ipython
-- [ ] 04.NumyPy Basic
-- [ ] 05.Getting Started with Pandas
+- [x] 04.NumyPy Basic
+- [x] 05.Getting Started with Pandas
 - [ ] 06.Data Loading Storage File Formats
 - [ ] 07.Data Wrangling
 - [ ] 08.Plotting and Visualization
@@ -56,3 +56,23 @@
 ## Python Cookbook
 
 ## Python Machine Learning
+
+## Hands-On Machine Leaning with Scikit-Learn & TensorFlow
+- Part I. The Fundamental of Machine Learning
+- [ ] 01. The Machine Learning Landscape
+- [ ] 02. End-to-End Machine Learning Project
+- [ ] 03. Classification
+- [ ] 04. Training Models
+- [ ] 05. Support Vector Machines
+- [ ] 06. Decision Trees
+- [ ] 07. Ensemble Learning and Random Forests
+- [ ] 08. Dimensionality Reduction
+- Part II. Neural Networks and Deep Learning
+- [ ] 09. Up and Running with TensorFlow
+- [ ] 10. Introduction to Artificial Neural Networks
+- [ ] 11. Training Deep Neural Nets
+- [ ] 12. Distributing TensorFlow Across Devices and Servers
+- [ ] 13. Convoluional Neural Networks
+- [ ] 14. Recurrent Neural Networks
+- [ ] 15. Autoencoders
+- [ ] 16. Reinforcement Learning
