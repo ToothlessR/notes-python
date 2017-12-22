@@ -35,6 +35,7 @@
 - [ ] Appendix. Python Essentials
 
 ## Python for Finance
+- Part II. 金融分析和开发
 - [ ] 04.数据类型和结构
 - [ ] 05.数据可视化
 - [ ] 06.金融时间序列
@@ -54,25 +55,53 @@
 - [ ] 19.波动率期权
 
 ## Python Cookbook
+- [ ] 01.Data Structures and Algorithms
+- [ ] 02.Strings and Text
+- [ ] 03.Numbers, Dates, and Times
+- [ ] 04.Iterators and Generators
+- [ ] 05.Files and I/O
+- [ ] 06.Data Encoding and Processing
+- [ ] 07.Functions
+- [ ] 08.Classes and Objects
+- [ ] 09.Metaprogramming
+- [ ] 10.Modules and Packages
+- [ ] 11.Network and Web Programming
+- [ ] 12.Concurrency
+- [ ] 13.Utility Scripting and System Administration
+- [ ] 14.Testing, Debugging, and Exceptions
+- [ ] 15.C Extensions
 
 ## Python Machine Learning
+- [ ] 01.Giving Computers the Ability to Learn from Data
+- [ ] 02.Training Machine Learning Algorithms for Classification
+- [ ] 03.A Tour of Machine Learning Classifiers Using Scikit-learn
+- [ ] 04.Building Good Training Sets - Data Preprocessing
+- [ ] 05.Compressing Data via Dimensionality Reduction
+- [ ] 06.Learning Best Practices for Model Evaluation and Hyperparameter Tuning
+- [ ] 07.Combing Different Models for Ensemble Learning
+- [ ] 08.Applying Machine Learning to Sentiment Analysis
+- [ ] 09.Embedding a Machine Learning Model into a Web Application
+- [ ] 10.Predicting Continuous Target Variables with Regression Analysis
+- [ ] 11.Working with Unlabeled Date - Clustering Analysis
+- [ ] 12.Training Artificial Neural Networks for Image REcognition
+- [ ] 13.Parallelizing Nueral Network Training with Theano
 
 ## Hands-On Machine Leaning with Scikit-Learn & TensorFlow
 - Part I. The Fundamental of Machine Learning
-- [ ] 01. The Machine Learning Landscape
-- [ ] 02. End-to-End Machine Learning Project
-- [ ] 03. Classification
-- [ ] 04. Training Models
-- [ ] 05. Support Vector Machines
-- [ ] 06. Decision Trees
-- [ ] 07. Ensemble Learning and Random Forests
-- [ ] 08. Dimensionality Reduction
+- [ ] 01.The Machine Learning Landscape
+- [ ] 02.End-to-End Machine Learning Project
+- [ ] 03.Classification
+- [ ] 04.Training Models
+- [ ] 05.Support Vector Machines
+- [ ] 06.Decision Trees
+- [ ] 07.Ensemble Learning and Random Forests
+- [ ] 08.Dimensionality Reduction
 - Part II. Neural Networks and Deep Learning
-- [ ] 09. Up and Running with TensorFlow
-- [ ] 10. Introduction to Artificial Neural Networks
-- [ ] 11. Training Deep Neural Nets
-- [ ] 12. Distributing TensorFlow Across Devices and Servers
-- [ ] 13. Convoluional Neural Networks
-- [ ] 14. Recurrent Neural Networks
-- [ ] 15. Autoencoders
-- [ ] 16. Reinforcement Learning
+- [ ] 09.Up and Running with TensorFlow
+- [ ] 10.Introduction to Artificial Neural Networks
+- [ ] 11.Training Deep Neural Nets
+- [ ] 12.Distributing TensorFlow Across Devices and Servers
+- [ ] 13.Convoluional Neural Networks
+- [ ] 14.Recurrent Neural Networks
+- [ ] 15.Autoencoders
+- [ ] 16.Reinforcement Learning
